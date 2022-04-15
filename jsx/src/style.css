@@ -1,0 +1,12 @@
+.titlered {
+color: aliceblue;
+background-color: black;
+align-self: center;
+align-content: center;
+justify-self: center;
+}
+img {
+    
+    height: 25%;
+    width: 25%;
+}
